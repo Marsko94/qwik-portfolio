@@ -6,6 +6,7 @@ export default component$(() => {
   return (
     <div>
     <h1>Startpage</h1>
+    <Link href="/about">About</Link>
     </div>
   );
 });
